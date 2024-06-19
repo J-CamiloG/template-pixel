@@ -1,0 +1,25 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Pixelify Sans", sans-serif;
+  font-size: 16px;
+  background-image: linear-gradient(to right top, #4f8df0, #596ece, #5c50ab, #593288, #511064);
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: #fff;
+}
+
+h1 {
+  font-size: 2em; /* Puedes ajustar el tamaño de la fuente para los encabezados */
+}
+
+p {
+  font-size: 1em; /* Ajusta el tamaño de la fuente para los párrafos */
+}
+
+/*# sourceMappingURL=global.css.map */
